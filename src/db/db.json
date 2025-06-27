@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "2e94982f-5367-4d6d-aee9-f2ab3da1230f",
+    "name": "Dr. Rodolfo Konopelski",
+    "phone": "(477) 940-2423 x99316",
+    "email": "Morris_Pagac32@hotmail.com",
+    "job": "Chief Branding Coordinator"
+  },
+  {
+    "id": "a77be16e-8c24-45bc-9fbb-cb46db83c54d",
+    "name": "Adam Romaguera",
+    "phone": "285-786-0772 x39216",
+    "email": "Nathen_Mraz16@gmail.com",
+    "job": "International Research Executive"
+  },
+  {
+    "id": "73022d39-6835-4751-afec-e36f03e049ca",
+    "name": "Dr. Camille Wilderman",
+    "phone": "934.247.4938 x326",
+    "email": "Grover.DAmore34@yahoo.com",
+    "job": "Central Metrics Developer"
+  },
+  {
+    "id": "3024b0dd-09bb-4290-bdba-d6375c32c20e",
+    "name": "Heather Herzog",
+    "phone": "915.460.7553",
+    "email": "Daphne_McDermott20@yahoo.com",
+    "job": "Regional Research Strategist"
+  },
+  {
+    "id": "c0750916-58b6-46cf-b53f-32904f5e8361",
+    "name": "Madeline Hayes",
+    "phone": "959.635.5902 x50401",
+    "email": "Haylee_Quitzon@yahoo.com",
+    "job": "International Research Representative"
+  }
+]
